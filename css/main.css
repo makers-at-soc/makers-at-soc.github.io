@@ -9,9 +9,8 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    display: fixed;
-    bottom:0px;
-    left:0px;
+    display: inline;
+    margin-right: 20px;
 }
 a {
     text-decoration: none;

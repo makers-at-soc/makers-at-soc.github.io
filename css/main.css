@@ -12,7 +12,6 @@ nav ul li, footer ul li {
     display: fixed;
     bottom:0px;
     left:0px;
-    width: 100%
 }
 a {
     text-decoration: none;

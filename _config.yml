@@ -1,16 +1,15 @@
-title: Jekyll Vision Casper Theme
-email: hugo.colombo23@gmail.com
+title: Makers @ Soc
+email: socmakers.gmail.com
 author:
-  picture: http://site.hugocarreira.me/assets/img/compressed/hugo.jpg #URL FORMAT
-  name: Hugo Carreira
-  location: Rio de Janeiro - Brazil
-  description: "19 years old, studying computer science"  
-description: only my simple vision of casper theme
+  picture: https://avatars3.githubusercontent.com/u/17025450?s=460&v=4 #URL FORMAT
+  name: Ten Zhi Yang
+  location: Singapore
+  description: "Undergraduate helper in Makers @ SoC"
+description: "Design. Build. Make "
 baseurl: "/"
-url: https://hugocarreira.github.io/jekyll-vision-casper-theme
-twitter_username: hugocolombo23
-github_username:  hugocarreira
-github_url: https://hugocarreira.github.io/jekyll-vision-casper-theme/
+url: https://tzyinc.github.io
+github_username:  tzyinc
+github_url: https://github.com/tzyinc
 
 # Build settings
 permalink: :title

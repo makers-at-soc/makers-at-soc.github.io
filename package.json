@@ -1,7 +1,7 @@
 {
-  "name": "jekyll-hgcasper-theme",
+  "name": "makers-at-soc",
   "version": "0.0.1",
-  "description": "my vision of Theme Casper",
+  "description": "makers at soc homepage",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,18 +11,15 @@
     "url": "git+https://github.com/hugocarreira/jekyll-theme-casper.git"
   },
   "keywords": [
-    "jekyll",
-    "casper",
-    "theme",
-    "hugocarreira"
+    "jekyll"
   ],
-  "author": "hugocarreira",
+  "author": "tzyinc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hugocarreira/jekyll-theme-casper/issues"
+    "url": "https://github.com/makers-at-soc/makers-at-soc.github.io"
   },
-  "homepage": "https://github.com/hugocarreira/jekyll-theme-casper#readme",
+  "homepage": "https://github.com/makers-at-soc/makers-at-soc.github.io#readme",
   "devDependencies": {
-    
+
   }
 }

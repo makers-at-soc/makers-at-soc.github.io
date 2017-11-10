@@ -1,11 +1,11 @@
 title: Makers @ Soc
-email: socmakers.gmail.com
+email: socmakers@gmail.com
 author:
   picture: https://avatars3.githubusercontent.com/u/17025450?s=460&v=4 #URL FORMAT
-  name: Ten Zhi Yang
+  name: "Ten Zhi Yang"
   location: Singapore
   description: "Undergraduate helper in Makers @ SoC"
-description: "Design. Build. Make "
+description: "Design. Build. Make"
 baseurl: "/"
 url: https://tzyinc.github.io
 github_username:  tzyinc

@@ -1037,6 +1037,10 @@ body.page-template .post-title {
     line-height: 1.7em;
 }
 
+.post-excerpt img {
+  width: 50vw;
+}
+
 .read-more {
     text-decoration: none;
 }

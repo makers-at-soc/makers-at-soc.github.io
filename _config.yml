@@ -10,6 +10,7 @@ baseurl: "/"
 url: https://makers-at-soc.github.io/
 github_username:  makers-at-soc
 github_url: https://makers-at-soc.github.io/
+img: "test"
 
 # Build settings
 permalink: :title

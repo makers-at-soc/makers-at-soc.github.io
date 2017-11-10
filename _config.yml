@@ -10,7 +10,7 @@ baseurl: "/"
 url: https://hugocarreira.github.io/jekyll-vision-casper-theme
 twitter_username: hugocolombo23
 github_username:  hugocarreira
-github_url: https://github.com/makers-at-soc/makers-at-soc.github.io/
+github_url: https://makers-at-soc.github.io/
 
 # Build settings
 permalink: :title

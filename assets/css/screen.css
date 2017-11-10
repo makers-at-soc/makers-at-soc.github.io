@@ -592,7 +592,7 @@ button {
 .nav {
     position: fixed;
     top: 0;
-    z-index: -5;
+    z-index: 5;
     background: #111;
     margin-bottom: 0;
     text-align: left;

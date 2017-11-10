@@ -6,6 +6,8 @@ author: makers-at-soc
 description: "first post description"
 img: "testimg-home-1.jpg"
 ---
-Welcome to our new home page! This was built with [Jekyll docs][jekyll-docs]
+Welcome to our new home page! This was built with [Jekyll](https://jekyllrb.com)
+
+![test image]({{site.github_url}}/assets/images/makers.jpg "Image here for template!")
 
 We intend to have **lots more** updates in the coming months!

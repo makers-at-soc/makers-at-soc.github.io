@@ -594,13 +594,8 @@ button {
     top: 0;
     z-index: 100;
     background: #111;
-    margin-bottom: 0;
     text-align: left;
     overflow-y: auto;
-    -webkit-transition: -webkit-transform 0.5s ease,
-                        opacity 0.3s ease 0.7s;
-            transition: transform 0.5s ease,
-                        opacity 0.3s ease 0.7s;
 }
 
 .subscribe-button {

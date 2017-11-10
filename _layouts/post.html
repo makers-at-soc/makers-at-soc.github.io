@@ -11,12 +11,7 @@ layout: default
       <h1 class="post-title">{{ page.title }}</h1>
       <section class="post-meta">
         <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ post.date | date: "%-d of %b of %Y" }}<br/>
-          {% if page.img %}
-            <span>{{ page.img }}</span>
-          {% endif %}
-          {% if post.img %}
-            <span>{{ post.img }}</span>
-          {% endif %}
+          
         </time>
       </section>
     </header>

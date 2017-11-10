@@ -1,15 +1,14 @@
 title: Makers @ SoC
-email: hugo.colombo23@gmail.com
+email: socmakers@gmail.com
 author:
   picture: https://avatars0.githubusercontent.com/u/33248994?s=400&u=02b18d1c65d042293cd3e93781783a51bd9386b7&v=4 #URL FORMAT
-  name: Hugo Carreira
-  location: Rio de Janeiro - Brazil
-  description: "19 years old, studying computer science"
+  name: makers-at-soc
+  location: Singapore
+  description: "Maker lab team"
 description: Design. Build. Make
 baseurl: "/"
-url: https://hugocarreira.github.io/jekyll-vision-casper-theme
-twitter_username: hugocolombo23
-github_username:  hugocarreira
+url: https://makers-at-soc.github.io/
+github_username:  makers-at-soc
 github_url: https://makers-at-soc.github.io/
 
 # Build settings

@@ -593,6 +593,7 @@ button {
     position: fixed !important;
     top: 20px;
     left: 20px;
+    border-radius: 5px;
     width: 60px !important;
     height: 60px !important;
     z-index: 100;

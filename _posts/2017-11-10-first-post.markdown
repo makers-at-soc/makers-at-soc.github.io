@@ -4,7 +4,8 @@ title:  "Welcome to Makers @ SoC's Home page!"
 date:   2017-11-20
 author: makers-at-soc
 description: "This is a template post for our own use!"
-img: "testimg-home-1.jpg"
+bg-img: "testimg-home-1.jpg"
+img: "placeholder.png"
 ---
 Welcome to our new home page! This was built with [Jekyll](https://jekyllrb.com)
 

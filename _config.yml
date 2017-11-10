@@ -1,27 +1,28 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and GitHub Pages, with social/SEO features.
-show_downloads: true
+title: Jekyll Vision Casper Theme
+email: hugo.colombo23@gmail.com
+author:
+  picture: http://site.hugocarreira.me/assets/img/compressed/hugo.jpg #URL FORMAT
+  name: Hugo Carreira
+  location: Rio de Janeiro - Brazil
+  description: "19 years old, studying computer science"  
+description: only my simple vision of casper theme
+baseurl: "/"
+url: https://hugocarreira.github.io/jekyll-vision-casper-theme
+twitter_username: hugocolombo23
+github_username:  hugocarreira
+github_url: https://hugocarreira.github.io/jekyll-vision-casper-theme/
 
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
-
-google_analytics:
-# cayman-blog date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-cayman-blog:
-  date_format: "%b %-d, %Y"
-
-theme: # leave it empty
-
-# social
-author: "Lore Pirri"
-image: /thumbnail-jumbo.png
-twitter:
-  username: lorepirri
-#  site:
-facebook:
-  #publisher: 1592372034171500
-  #profile_id: 1809805629
-  app_id: 1798910940422432 # cayman-blog
-  #authors: lorepirri
-#  admins:
+# Build settings
+permalink: :title
+paginate: 1
+paginate_path: "page:num"
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock

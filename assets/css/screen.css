@@ -591,8 +591,10 @@ button {
 
 .nav {
     position: fixed !important;
-    top: 20;
-    left: 20;
+    top: 20px;
+    left: 20px;
+    width: 40px;
+    height: 40px;
     z-index: 100;
     background: #111;
     text-align: left;

@@ -8,8 +8,11 @@ img: "testimg-home-1.jpg"
 ---
 Welcome to our new home page! This was built with [Jekyll](https://jekyllrb.com)
 
-![test image]({{site.github_url}}/assets/images/placeholder.png "Image here for template!" =200x)
-![test image]({{site.github_url}}/assets/images/placeholder.png  "Image here for template!" =100x)
-![test image]({{site.github_url}}/assets/images/placeholder.png  "Image here for template!" =10x)
+
+<img src="{{site.github_url}}/assets/images/placeholder.png" width="200" />
+
+<img src="{{site.github_url}}/assets/images/placeholder.png" width="100" />
+
+<img src="{{site.github_url}}/assets/images/placeholder.png" width="10" />
 
 We intend to have **lots more** updates in the *coming* months!

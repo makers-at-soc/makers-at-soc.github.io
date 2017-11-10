@@ -599,7 +599,7 @@ button {
     z-index: 100;
     background: #111;
     text-align: left;
-    overflow-y: auto;
+    overflow: hidden;
 }
 
 .subscribe-button {

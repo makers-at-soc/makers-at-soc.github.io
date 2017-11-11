@@ -1,14 +1,8 @@
 
 {% if page.bg-img %}
 <header class="main-header" style="background-image: url({{ site.github_url}}assets/images/{{page.bg-img}}) ">
-  <meta name="og:title" property="og:title" content="{{ page.title }}" />
-  <meta name="og:description" property="og:description" content="{{ page.description }}" />
-  <meta name="og:image" property="og:image" content="https://makers-at-soc.github.io/assets/images/{{page.bg-img}}" />
 {% else %}
 <header class="main-header" style="background-image: url({{ site.github_url}}assets/images/makers.jpg)">
-  <meta name="og:title" property="og:title" content="{{ site.title }}" />
-  <meta name="og:description" property="og:description" content="{{ site.description }}" />
-  <meta name="og:image" property="og:image" content="https://makers-at-soc.github.io/assets/images/makers.jpg" />
 {% endif %}
 
   <!--<nav class="main-nav overlay clearfix">

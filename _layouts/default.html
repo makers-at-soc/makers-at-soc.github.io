@@ -9,15 +9,7 @@
 
   <meta name="HandheldFriendly" content="True" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-{% if page.bg-img %}
-  <meta name="og:title" content="{{ page.title }}" />
-  <meta name="og:description" content="{{ page.description }}" />
-  <meta name="og:image" content="https://makers-at-soc.github.io/assets/images/{{page.bg-img}}" />
-{% else %}
-  <meta name="og:title" content="{{ site.title }}" />
-  <meta name="og:description" content="{{ site.description }}" />
-  <meta name="og:image" content="https://makers-at-soc.github.io/assets/images/makers.jpg" />
-{% endif %}
+
   <link rel="shortcut icon" href="{{ site.github_url}}assets/images/favicon.ico" type="image/x-icon" />
 
   <link rel="stylesheet" type="text/css" href="{{ site.github_url }}assets/css/screen.css" />

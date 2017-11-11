@@ -9,10 +9,16 @@
 
   <meta name="HandheldFriendly" content="True" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  {% if site.favicon %}
-  <link rel="shortcut icon" href="{{ site.github_url }}/assets/images/favicon.ico">
-  {% endif %}
+{% if page.bg-img %}
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.description }}" />
+  <meta property="og:image" content="https://makers-at-soc.github.io/assets/images/{{page.bg-img}}" />
+{% else %}
+  <meta property="og:title" content="{{ site.title }}" />
+  <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:image" content="https://makers-at-soc.github.io/assets/images/makers.jpg" />
+{% endif %}
+  <link rel="shortcut icon" href="{{ site.github_url}}assets/images/favicon.ico" type="image/x-icon" />
 
   <link rel="stylesheet" type="text/css" href="{{ site.github_url }}assets/css/screen.css" />
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />

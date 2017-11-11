@@ -1,16 +1,9 @@
 
 {% if page.bg-img %}
 <header class="main-header" style="background-image: url({{ site.github_url}}assets/images/{{page.bg-img}}) ">
-<meta property="og:title" content="{{ page.title }}" />
-<meta property="og:description" content="{{ page.description }}" />
-<meta property="og:image" content="https://makers-at-soc.github.io/assets/images/{{page.bg-img}}" />
 {% else %}
 <header class="main-header" style="background-image: url({{ site.github_url}}assets/images/makers.jpg)">
-  <meta property="og:title" content="{{ site.title }}" />
-  <meta property="og:description" content="{{ site.description }}" />
-<meta property="og:image" content="https://makers-at-soc.github.io/assets/images/makers.jpg" />
 {% endif %}
-<link rel="shortcut icon" href="{{ site.github_url}}assets/images/favicon.ico" type="image/x-icon" />
   <!--<nav class="main-nav overlay clearfix">
     <a class="blog-logo" href="/"><img src="/assets/images/Ghost-Transparent-for-DARK-BG.png" alt="Finding The Way Home" /></a>
     <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>

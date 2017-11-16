@@ -9,10 +9,10 @@ layout: default
         <h2 class="post-title"><a href="{{ site.github_url }}{{ post.url }}">{{ post.title }}</a></h2>
       </header>
       <section class="post-excerpt">
+        <p>{{ post.description }}</p>
         {% if post.img %}
           <img class="post-img" src={{ site.github_url }}assets/images/{{ post.img }} >
         {% endif %}
-        <p>{{ post.description }}</p>
       </section>
       <footer class="post-meta">
         by <a href="{{ site.github_url }}about">{{ site.author.name }}</a> <img class="author-thumb" src="{{ site.author.picture }}" alt="{{ site.author.name }}">

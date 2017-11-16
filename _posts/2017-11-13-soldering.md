@@ -27,7 +27,7 @@ Before you start soldering, it is always good practice to tin your soldering iro
 </figure>
 
 ### Tinning
-Tou should 'tin' both components before you attempt to solder them. This coats the components so that they will attach together easily
+You should 'tin' both components before you attempt to solder them. This coats the components so that they will attach together easily
 
 To tin a wire, apply heat to the wire for a second or two, then apply the solder to the wire. The solder should flow freely onto the wire and coat it (if it's stranded wire the solder should flow into it, and fill the wire).
 <figure>
@@ -76,4 +76,4 @@ The front of a fume extractor holds a carbon filter, behind it is a fan that suc
 </figure>
 
 # What's next?
-Now you have the skills to fix simple electronics, as well as assemble electronic kits! You'll eventually want to solder finer components, such as surface mount devices (SMD), which can be done by hand or with an oven (usually both). If you've made a mistake, there are ways to fix it! We'll cover that in the next tutorial: desoldering. 
+Now you have the skills to fix simple electronics, as well as assemble electronic kits! You'll eventually want to solder finer components, such as surface mount devices (SMD), which can be done by hand or with an oven (usually both). If you've made a mistake, there are ways to fix it! We'll cover that in the next tutorial: desoldering.

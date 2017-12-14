@@ -11,4 +11,5 @@ img: "laserpromo.jpg"
 This is a tutorial adapted from the laser cutting session for the Silver Society robotics maker competition held this month!
 Tutorial content will be updated at a later date.
 
-[Slides Here]({{site.github_url}}/assets/files/lasercuttingnotes.pdf)
+[Driver and supporting programs guide]({{site.github_url}}/assets/files/PreseminarInstallation.pdf)
+[Slides here]({{site.github_url}}/assets/files/lasercuttingnotes.pdf)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Laser Cutting Design Tutorial"
-date:   2017-11-10
+date:   2017-12-14
 author: makers-at-soc
 description: "Design process and techniques"
 bg-img: "laserbg.jpg"

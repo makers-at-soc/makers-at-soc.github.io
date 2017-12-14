@@ -12,4 +12,5 @@ This is a tutorial adapted from the laser cutting session for the Silver Society
 Tutorial content will be updated at a later date.
 
 [Driver and supporting programs guide]({{site.github_url}}/assets/files/PreseminarInstallation.pdf)
+
 [Slides here]({{site.github_url}}/assets/files/lasercuttingnotes.pdf)
